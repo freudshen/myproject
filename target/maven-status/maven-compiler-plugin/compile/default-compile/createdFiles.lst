@@ -1,0 +1,6 @@
+com\example\entity\Dept.class
+com\example\mapper\DeptMapper.class
+com\example\common\Result.class
+com\example\service\DeptService.class
+com\example\controller\DeptController.class
+com\example\DeptApplication.class
